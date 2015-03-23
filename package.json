@@ -1,0 +1,42 @@
+{
+  "name": "once-file-changes",
+  "version": "1.0.0",
+  "description": "fires callback when the glob/file changes",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "chokidar": "^1.0.0-rc4"
+  },
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "file",
+    "watch",
+    "once",
+    "one",
+    "event",
+    "change",
+    "all",
+    "add",
+    "io",
+    "watches",
+    "watcher"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/once-file-changes.git"
+  },
+  "homepage": "https://github.com/mattdesl/once-file-changes",
+  "bugs": {
+    "url": "https://github.com/mattdesl/once-file-changes/issues"
+  }
+}
